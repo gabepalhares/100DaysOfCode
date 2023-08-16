@@ -16,4 +16,4 @@ The idea is that, using a social network, you will share a daily report of what 
 | <a href="/day10">Day 10</a> | <a href="/day20">Day 20</a> | <a href="/day30">Day 30</a> | <a href="/day40">Day 40</a> | <a href="/day50">Day 50</a> | <a href="/day60">Day 60</a> | <a href="/day70">Day 70</a> | <a href="/day80">Day 80</a> | <a href="/day90">Day 90</a> | <a href="/day100">Day 100</a> |
 
 _* Note 1: I started this challenge on August 15, 2023._</br>
-_* Note 2: I will never create a table of this size in markdown again._
+_* Note 2: I will never create a table of this size in markdown ever again._
