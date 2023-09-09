@@ -5,3 +5,5 @@ There is an extremely important relationship in any layer of technology, which i
 Understanding the dynamics of `Continuous Deployment` with `Vercel`, including the functionality of its `permanent URLs`, and how all of this contributes to making the code you program publicly available on the internet.
 
 I participated in a meeting with the teacher and my project group for alignment and clarification of doubts. The deadline for the first phase of the project is Sunday, August 27th. After the meeting, I started creating the project documentation: project management, time management, activity diagram, Gantt chart, team management, and budget management.
+
+Had a little breakdown and burnout...
