@@ -3,7 +3,7 @@
 - The 100 Days of Code is a programming challenge in which you will choose an area or subject and dedicate 100 consecutive days to studying it.
 The idea is that, using a social network, you will share a daily report of what you accomplished each day with other people.
 
-Currently at day 7.
+Currently at day 8.
 
 | <a href="/days/day01">Day 01</a>  | <a href="/day11">Day 11</a> | <a href="/day21">Day 21</a>  | <a href="/day31">Day 31</a> | <a href="/day41">Day 41</a> | <a href="/day51">Day 51</a>  | <a href="/day61">Day 61</a> | <a href="/day71">Day 71</a>  | <a href="/day81">Day 81</a> | <a href="/day91">Day 91</a> |
 | ------------- | ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- | ------------- |------------- |
