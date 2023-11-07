@@ -17,5 +17,4 @@ Currently at day 10.
 | <a href="/days/day09">Day 09</a> | <a href="/day19">Day 19</a> | <a href="/day29">Day 29</a> | <a href="/day39">Day 39</a> | <a href="/day49">Day 49</a> | <a href="/day59">Day 59</a> | <a href="/day69">Day 69</a> | <a href="/day79">Day 79</a> | <a href="/day89">Day 89</a> | <a href="/day99">Day 99</a> |
 | <a href="/days/day10">Day 10</a> | <a href="/day20">Day 20</a> | <a href="/day30">Day 30</a> | <a href="/day40">Day 40</a> | <a href="/day50">Day 50</a> | <a href="/day60">Day 60</a> | <a href="/day70">Day 70</a> | <a href="/day80">Day 80</a> | <a href="/day90">Day 90</a> | <a href="/day100">Day 100</a> |
 
-_* Note 1: I started this challenge on August 15, 2023._</br>
-_* Note 2: I will never create a table of this size in markdown ever again._
+_* Note: I will never create a table of this size in markdown ever again._
