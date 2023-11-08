@@ -1,4 +1,4 @@
-### Day Eleven of #100DaysOfCode
+### Day eleven of #100DaysOfCode
 
 I reorganized my routine to optimize my performance. I began by breaking down each task I need to accomplish and also considered how many times I would do each one throughout the weeks.
 I believe that the best way to improve my study performance is by better organization while ensuring I put everything into practice, of course.
