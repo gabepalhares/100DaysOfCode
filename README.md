@@ -3,9 +3,9 @@
 - The 100 Days of Code is a programming challenge in which you will choose an area or subject and dedicate 100 consecutive days to studying it.
 The idea is that, using a social network, you will share a daily report of what you accomplished each day with other people.
 
-Currently at day 10.
+Currently at day 12.
 
-| <a href="/days/day01">Day 01</a>  | <a href="/day11">Day 11</a> | <a href="/day21">Day 21</a>  | <a href="/day31">Day 31</a> | <a href="/day41">Day 41</a> | <a href="/day51">Day 51</a>  | <a href="/day61">Day 61</a> | <a href="/day71">Day 71</a>  | <a href="/day81">Day 81</a> | <a href="/day91">Day 91</a> |
+| <a href="/days/day01">Day 01</a>  | <a href="/days/day11">Day 11</a> | <a href="/day21">Day 21</a>  | <a href="/day31">Day 31</a> | <a href="/day41">Day 41</a> | <a href="/day51">Day 51</a>  | <a href="/day61">Day 61</a> | <a href="/day71">Day 71</a>  | <a href="/day81">Day 81</a> | <a href="/day91">Day 91</a> |
 | ------------- | ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- | ------------- |------------- |
 | <a href="/days/day02">Day 02</a> | <a href="/day12">Day 12</a> | <a href="/day22">Day 22</a> | <a href="/day32">Day 32</a> | <a href="/day42">Day 42</a> | <a href="/day52">Day 52</a> | <a href="/day62">Day 62</a> | <a href="/day72">Day 72</a> | <a href="/day82">Day 82</a> | <a href="/day92">Day 92</a> |
 | <a href="/days/day03">Day 03</a> | <a href="/day13">Day 13</a> | <a href="/day23">Day 23</a> | <a href="/day33">Day 33</a> | <a href="/day43">Day 43</a> | <a href="/day53">Day 53</a> | <a href="/day63">Day 63</a> | <a href="/day73">Day 73</a> | <a href="/day83">Day 83</a> | <a href="/day93">Day 93</a> |
