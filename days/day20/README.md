@@ -8,6 +8,6 @@ Moreover, I believe the stack I will focus on will be an attempt to maximize Jav
 
 Front-end: Javascript, Typescript, React, Next
 
-Back-end: Node, Fastify / C#, .NET Core
+Back-end: Node, Fastify / C#, .NET Core -> Go
 
 Database: Mongo, Redis, PostgreSQL
