@@ -6,8 +6,8 @@ I was very discouraged with college, but I will try to turn things around and re
 
 Moreover, I believe the stack I will focus on will be an attempt to maximize Javascript to the fullest.
 
-Front-end: Javascript, Typescript, React, Vue
+Front-end: Javascript, Typescript, React, Next
 
-Back-end: Node, Fastify, C#, .NET Core
+Back-end: Node, Fastify / C#, .NET Core
 
-Database: PostgreSQL, Mongo, Redis
+Database: Mongo, Redis, PostgreSQL
